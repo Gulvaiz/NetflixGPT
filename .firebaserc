@@ -1,5 +1,8 @@
 {
   "projects": {
-    "default": "netflixgpt-4dc7c"
-  }
+    "default": "netflixgpt-4dc7c",
+    "netflixgpt": "netflixgpt-4dc7c"
+  },
+  "targets": {},
+  "etags": {}
 }
