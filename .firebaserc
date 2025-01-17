@@ -1,8 +1,5 @@
 {
   "projects": {
-    "default": "netflixgpt-4dc7c",
-    "netflixgpt": "netflixgpt-4dc7c"
-  },
-  "targets": {},
-  "etags": {}
+    "default": "netflixgptai-6d16b"
+  }
 }
